@@ -8,6 +8,10 @@ This folder includes:
 1. A presentation content outline and slide-by-slide draft structure.
 2. A set of assumptions and placeholders that indicate what must be filled in once the topic and audience are known.
 3. Notes on how an available image asset could be used (if desired) as a visual or thematic element.
+4. A minimal Reveal.js scaffold (HTML + static server scripts) to render the deck in a browser.
+
+## How to run the slide scaffold
+A short practical guide exists at `getting-started.md`, including prerequisite notes and commands for running and building the static site.
 
 ## Open inputs required to finalize the deck
 To convert the draft into a completed slide deck, the following inputs are still required:
