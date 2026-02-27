@@ -1,0 +1,13 @@
+{
+  "name": "revealjs-docs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "sh ./scripts/start-server.sh public 8000",
+    "build": "rm -rf dist && mkdir -p dist && cp -r public/* dist/",
+    "preview": "npm run start"
+  },
+  "dependencies": {
+    "reveal.js": "^4.5.0"
+  }
+}
